@@ -1,4 +1,4 @@
-# Sprint Challenge: Advanced CSS and Intro to JavaScript - Influential Artists
+00# Sprint Challenge: Advanced CSS and Intro to JavaScript - Influential Artists
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -23,10 +23,28 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Ans: Creating web pages in a way which are easily understandable for every user including people with disabilities.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Ans: 
+    1. Making sure that your font size is responsive to user's screen size.
+    2. Providing descriptive tags to your images in alt attribute for screen reader.
+    3. Choosing specific colors for important elements on the page, for users with color blindness.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Ans: A variable is a placeholder for any type of data.
+
 4. What is the purpose of using functions in code?
+
+Ans: Function are used to make your code reuseable and simpler.
+
 5. How do you access a key inside of an object inside of an array?
+
+Ans: array[index of object inside the array].keyname;
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
